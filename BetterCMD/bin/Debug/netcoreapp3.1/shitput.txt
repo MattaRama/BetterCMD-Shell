@@ -1,0 +1,9 @@
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at BetterCMD.Program.Evaluate(String ex, String args, String stdin) in C:\Users\Matt\source\repos\BetterCMD\BetterCMD\Program.cs:line 250
+
+
+
+
+The system cannot find the file specified.
